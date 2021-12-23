@@ -5,5 +5,9 @@ public class GitTest {
 		
 
 	}
+	private void codeB() {
+		
+
+	}
 
 }
